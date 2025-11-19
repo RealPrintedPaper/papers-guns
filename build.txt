@@ -1,0 +1,3 @@
+displayName = Paper's Guns
+author = Printed Paper
+version = 0.1.0.0

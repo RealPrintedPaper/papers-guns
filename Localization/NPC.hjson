@@ -1,0 +1,22 @@
+		
+
+Mods: {
+	PapersGuns: {
+		TownNPCMood: {
+			GunMan: {
+				Content: Doing good!
+				NoHome: Come on, every gun needs a home!
+				LoveSpace: Room for plinking! Very nice.
+				FarFromHome: I think I'm lost...
+				DislikeCrowded: Too many people, I can't shoot anywhere without the fear of hurting someone.
+				HateCrowded: This is getting rediculous, there's so many people here.
+				LikeBiome: "The {BiomeName} is nice, it's where i grew up in."
+				LoveBiome: "Ah yes, {BiomeName}. Lots of coal, sulphur, and whatever metal you need to make them guns and bullets!"
+				DislikeBiome: "I hate the {BiomeName}, it's always too bright!"
+				LoveNPC: "You checked out {NPCName} recently? She's been looking fine... Don't tell her I said that!"
+				LikeNPC: "Heck yeah! {NPCName}! He's my brother, always by his side when he needs me!"
+				DislikeNPC: "{NPCName} is a weird kid... I wish not to be around him much."
+			}
+		}
+	}
+}
