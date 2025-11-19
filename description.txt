@@ -1,0 +1,46 @@
+Adds many cool and silly guns to the game.
+
+This mod adds:
+-97 ranged weapons
+-9 ammo types
+-6 potions/buffs
+-1 armor set
+-14 accessories 
+-6 material items
+
+My first mod made/published, so don't be surprised if there is anything broken or unoptimized.
+I had fun making this, and I hope you have fun playing with it.
+
+NOTES AND DISCLAMERS:
+This mod's weapons may or may not have issues with other mods that affect weaponry.
+Some weapons are inspired either from other mods, videogames, or other sources.
+
+CHANGELOGS:
+v0.1.1
+- Buffed Cannon of the Night (19 > 42 dmg).
+- Removed crafting recipe from Potato Cannon.
+
+v0.1.2
+- Arms Dealer, Eye of Cthulhu, and Skeletron have a 1/10 chance to drop illegal gun parts. In hardmode, Arms Dealer, and all 3 mechanical bosses have a 1/5 chance.
+- Tactical Suitcase recipe changed.
+- New item: Laser Sight.
+- Buffed True Cannon of the Night (24 > 52 dmg).
+
+v0.2.0
+- Buffed Bone Gun (20 > 35 dmg, 15 > 12 usetime).
+- Added 6 new laser weapons, which have 2 upgrades each.
+- Added more types of ammo.
+- Fixed recipe for Amber Pistol.
+- Nerfed Cannon of the Night (42 > 30 dmg).
+- Nerfed Dragunov (70 > 60 dmg, 50 > 60 gold).
+- Changed Gem Launcher (55 > 42 dmg, more accurate).
+- Terra Rifle recipe changed, it is now post-Plantera.
+- Changed Evils Bounty (Autofire, 25 > 18 Secondary dmg, 50 > 40 Primary usetime).
+- Tactical Suitcase and First Aid Kit recipe changed, they are now post-Moonlord.
+- Drop chance for illegal gun parts in hardmode bumped to 1/3.
+- Fixed bug related to modded ammo types.
+
+...
+
+v1.0.0
+- General progression fixes among most weapons, tweaked a lot of items, and added a whole lot more stuff!
